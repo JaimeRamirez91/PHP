@@ -1,0 +1,68 @@
+#ContenedorPrincipal{
+
+    width: 90%;
+    min-width: 800px;
+    background-color: rgb(250, 249, 249);
+    margin: 0 auto;
+    height: 1200px;
+}
+header{
+    background-color: rgb(16, 94, 139);
+}
+#Logo{
+    height: 50px;
+    line-height: 50px;
+    margin-left: 20px;
+    color: white;
+   
+}
+nav > a{
+    text-decoration: none;
+    color: white;
+    padding-left: 4px;
+    padding-right: 4px;
+    transition: 0.88s;
+}
+nav > a:hover{
+    background-color: rgb(17, 55, 90);
+   
+
+}
+.Active{
+    background-color: rgb(9, 29, 48);
+    padding-left: 4px;
+    padding-right: 4px;
+}
+nav{
+    height: 50px;
+    line-height: 50px;
+    float: right;
+    width: 80%;
+    background: rgb(16, 94, 139);
+    color: white;
+}
+nav > a{
+    float: right;
+    margin-right: 20px;
+}
+/*Editar producto*/
+#TableEditarProducto{
+    width: 400px;
+    margin: 0 auto;
+    border: solid 1px black;
+    text-align: center;
+}
+.FilaPrincipal{
+    background-color: red;
+    color: white;
+}
+.FilaA{
+    background-color: rgb(90, 111, 206);
+    color: white;
+}
+.FilaB{
+    background-color: rgb(253, 252, 252);
+    color: black;
+}
+
+
