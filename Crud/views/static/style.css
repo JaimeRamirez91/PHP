@@ -1,0 +1,29 @@
+#ContenedorPrincipal{
+
+    width: 90%;
+    min-width: 800px;
+    background-color: rgb(97, 89, 89);
+    margin: 0 auto;
+}
+#Logo{
+    height: 50px;
+    line-height: 50px;
+    margin-left: 20px;
+   
+}
+nav > a{
+    text-decoration: none;
+}
+nav{
+    height: 50px;
+    line-height: 50px;
+    float: right;
+    width: 80%;
+    background: red;
+}
+nav > a{
+    float: right;
+    margin-right: 20px;
+}
+
+
